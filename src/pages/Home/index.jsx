@@ -23,6 +23,7 @@ function Home() {
       email: inputEmail.current.value
     })
     
+    getUsers()
   }
 
   async function deleteUser(id){

@@ -24,6 +24,7 @@ form {
 
   & button {
     border-radius: 30px;
+    border: none;
     background-color: #8b8ae1;
     height: 40px;
     font-weight: bold;
